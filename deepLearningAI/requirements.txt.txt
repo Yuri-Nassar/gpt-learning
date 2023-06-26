@@ -10,3 +10,7 @@ tiktoken
 python-dotenv
 docarray
 wikipedia
+
+# for diffusion models lectures
+tqdm
+torch
