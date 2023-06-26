@@ -1,0 +1,12 @@
+# data manipulation
+pandas
+
+# llm framework
+openai
+langchain==0.0.215
+
+# utils
+tiktoken
+python-dotenv
+docarray
+wikipedia
